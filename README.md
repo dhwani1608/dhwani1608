@@ -30,8 +30,6 @@
 
 ## ✨ A Little More About Me  
 
-> *“Code is not just about syntax — it’s about thinking clearly.”*  
-
 - 🌱 Curious learner  
 - 🎨 Enjoy creative & out-of-the-box ideas  
 - 🧠 Interested in startups, innovation & impact-driven tech  
@@ -40,8 +38,8 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhwani1608&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhwani1608&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dhwani1608&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhwani1608&layout=compact&theme=tokyonight)
 
 ---
 
