@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hey there! 👋 I'm Dhwani
 
-<!--
-**dhwani1608/dhwani1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me  
 
-Here are some ideas to get you started:
+- 🎓 CSE student keen about **software & systems**
+- 💻 Interested in **Full-Stack Development & AI**
+- 🌱 Currently learning more about **scalable backend systems & LLMs**
+- 📚 Love reading and exploring ideas beyond just code
+- 🎯 Believer in *learning by building*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 🛠️ Tech Stack  
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,php,html,css,js,react,nextjs,tailwind,prisma,postgres,mysql,mongodb,docker,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
+## 🚀 What I Like Building  
+
+- 🌐 Full-stack web applications  
+- 🤖 AI-driven tools & smart systems  
+- 🧩 Projects that solve **real problems**  
+- 🛠 Clean, scalable, and maintainable code  
+
+---
+
+> *"First solve the problem, then write the code."* — John Johnson  
+
+## ✨ A Little More About Me  
+
+> *“Code is not just about syntax — it’s about thinking clearly.”*  
+
+- 🌱 Curious learner  
+- 🎨 Enjoy creative & out-of-the-box ideas  
+- 🧠 Interested in startups, innovation & impact-driven tech  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhwani1608&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhwani1608&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect  
+
+🌐 Portfolio · https://dhwani-s-portfolio.vercel.app/
+💼 LinkedIn · https://linkedin.com/in/dhwani-vyas-b97770284/  
+📧 Email · dhwani.vyas05@gmail.com  
+
+---
+
+⭐ If you like what I build, feel free to **star** a repo or connect!
