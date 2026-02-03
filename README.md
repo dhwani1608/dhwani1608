@@ -1,4 +1,9 @@
-# Hey there! 👋 I'm Dhwani
+<a target="_blank" align="center">
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  
+</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hey+there!+👋+I'm+Dhwani)](https://git.io/typing-svg)
 
 ## 🧠 About Me  
 
@@ -13,7 +18,7 @@
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,php,html,css,js,react,nextjs,tailwind,postgres,mysql,mongodb,docker,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,php,html,css,js,react,nextjs,tailwind,prisma,postgres,mysql,mongodb,docker,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -26,20 +31,16 @@
 
 ---
 
-> *"First solve the problem, then write the code."* — John Johnson  
+## ✨ Quote for a GOAT
 
-## ✨ A Little More About Me  
-
-- 🌱 Curious learner  
-- 🎨 Enjoy creative & out-of-the-box ideas  
-- 🧠 Interested in startups, innovation & impact-driven tech  
+> *“Build things. Break them. Understand them.”*
 
 ---
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dhwani1608&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhwani1608&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhwani1608&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhwani1608&layout=compact&theme=tokyonight)
 
 ---
 
@@ -51,4 +52,11 @@
 
 ---
 
-⭐ If you like what I build, feel free to **star** a repo or connect!
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhwani1608/dhwani1608/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</p>
+
