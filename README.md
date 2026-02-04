@@ -59,6 +59,5 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhwani1608/dhwani1608/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/dhwani1608/dhwani1608/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions"/>
 </p>
-
