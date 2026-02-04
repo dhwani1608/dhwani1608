@@ -36,12 +36,12 @@
 > *“Build things. Break them. Understand them.”*
 
 ---
-
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=dhwani1608" height="165"/>
-  <img src="https://stats.dooboo.io/api/github-trophies?login=dhwani1608" height="165"/>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=dhwani1608" />
 </p>
+
 ---
 
 ## 📫 Let’s Connect  
