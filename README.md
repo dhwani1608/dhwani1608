@@ -5,13 +5,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hey+there!+👋+I'm+Dhwani)](https://git.io/typing-svg)
 
-## 🧠 About Me  
+## About Me
 
-- 🎓 CSE student keen about **software & systems**
-- 💻 Interested in **Full-Stack Development & AI**
-- 🌱 Currently learning more about **scalable backend systems & LLMs**
-- 📚 Love reading and exploring ideas beyond just code
-- 🎯 Believer in *learning by building*
+CS student at PDEU (grad. 2027) who builds AI systems and ships them.
+I work mostly in backend engineering, agentic AI, and full-stack development —
+with a bias toward learning by doing over learning by watching.
+
+Currently exploring: LLM fine-tuning, multi-agent systems, and production RAG pipelines.
+
+Outside of code: I read a lot, think about systems, and occasionally win hackathons.
 
 ---
 
@@ -22,32 +24,26 @@
 
 ---
 
-## 🚀 What I Like Building  
+## What I Build
 
-- 🌐 Full-stack web applications  
-- 🤖 AI-driven tools & smart systems  
-- 🧩 Projects that solve **real problems**  
-- 🛠 Clean, scalable, and maintainable code  
+Production AI systems — agentic workflows, RAG pipelines, LLM-powered backends.
+Full-stack apps that real people use. Infrastructure that doesn't fall over.
 
----
-
-## ✨ Quote for a GOAT
-
-> *“Build things. Break them. Understand them.”*
+I care less about the stack and more about whether the thing actually works.
 
 ---
 
-## 📫 Let’s Connect  
-
-🌐 Portfolio · https://dhwani-s-portfolio.vercel.app/
-💼 LinkedIn · https://linkedin.com/in/dhwani-vyas-b97770284/  
-📧 Email · dhwani.vyas05@gmail.com  
+> "Build things. Break them. Understand them."
 
 ---
 
+## Let's Connect
+
+[Portfolio](https://dhwani-s-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/dhwani-vyas-b97770284/) · [Email](mailto:dhwani.vyas05@gmail.com)
+
 ---
 
-## 🐍 Contribution Snake  
+## Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dhwani1608/dhwani1608/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions"/>
