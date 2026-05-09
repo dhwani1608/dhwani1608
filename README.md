@@ -8,7 +8,7 @@
 ## About Me
 
 CS student at PDEU (grad. 2027) who builds AI systems and ships them.
-I work mostly in backend engineering, agentic AI, and full-stack development —
+I work mostly in backend engineering, agentic AI, and full-stack development 
 with a bias toward learning by doing over learning by watching.
 
 Currently exploring: LLM fine-tuning, multi-agent systems, and production RAG pipelines.
@@ -18,7 +18,7 @@ Outside of code: I read a lot, think about systems, and occasionally win hackath
 ---
 
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,php,html,css,js,react,nextjs,tailwind,prisma,postgres,mysql,mongodb,docker,vscode&theme=dark)](https://skillicons.dev)
 
@@ -26,7 +26,7 @@ Outside of code: I read a lot, think about systems, and occasionally win hackath
 
 ## What I Build
 
-Production AI systems — agentic workflows, RAG pipelines, LLM-powered backends.
+Production AI systems including agentic workflows, RAG pipelines, LLM-powered backends.
 Full-stack apps that real people use. Infrastructure that doesn't fall over.
 
 I care less about the stack and more about whether the thing actually works.
