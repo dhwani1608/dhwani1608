@@ -20,8 +20,7 @@ Outside of code: I read a lot, think about systems, and occasionally win hackath
 
 ## Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,php,html,css,js,react,nextjs,tailwind,prisma,postgres,mysql,mongodb,docker,vscode&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,cpp,c,php,html,css,bash,spring,fastapi,django,nodejs,express,react,nextjs,tailwind,prisma,postgres,mysql,mongodb,redis,docker,kubernetes,aws,azure,github,githubactions,linux,pytorch,sklearn,vscode&theme=dark)](https://skillicons.dev)
 ---
 
 ## What I Build
